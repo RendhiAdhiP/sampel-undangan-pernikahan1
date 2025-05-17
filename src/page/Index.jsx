@@ -193,7 +193,9 @@ function Index() {
                 </section>
                 <footer className="bg-black text-white text-center py-4 mt-10">
                     <p className="text-xs font-lora">
-                        &copy; {new Date().getFullYear()} Adh Studio Technology (AST). All rights reserved.
+                        {/* &copy; */}
+                        {/* {new Date().getFullYear()} */}
+                         Ulemin.id — Powered by AdhLabs
                     </p>
                 </footer>
 
